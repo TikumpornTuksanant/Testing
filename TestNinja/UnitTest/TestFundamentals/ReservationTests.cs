@@ -1,5 +1,4 @@
-﻿using System;
-using TestNinja.Fundamentals;
+﻿using TestNinja.Fundamentals;
 using NUnit.Framework;
 
 namespace UnitTest.TestFundamentals
