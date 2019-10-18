@@ -21,6 +21,4 @@ namespace TestNinja.Fundamentals
     {
         public bool IsAdmin { get; set; }
     }
-
-
 }
