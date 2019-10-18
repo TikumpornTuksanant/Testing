@@ -63,6 +63,9 @@
     <Compile Include="Fundamentals\Math.cs" />
     <Compile Include="Fundamentals\Stack.cs" />
     <Compile Include="Fundamentals\VideoService.cs" />
+    <Compile Include="Mocking\FileReader.cs" />
+    <Compile Include="Mocking\Program.cs" />
+    <Compile Include="Mocking\VideoService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Fundamentals\Reservation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,6 +74,7 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
