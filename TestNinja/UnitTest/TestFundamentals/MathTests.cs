@@ -1,5 +1,4 @@
 ﻿using System;
-using TestNinja.Fundamentals;
 using NUnit.Framework;
 using Math = TestNinja.Fundamentals.Math;
 
