@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\user\Desktop\jj\Testing\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
