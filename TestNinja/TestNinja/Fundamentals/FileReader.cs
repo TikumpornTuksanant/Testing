@@ -6,6 +6,7 @@ namespace TestNinja.Fundamentals
     {
         string Read(string path);
     }
+
     public class FileReader : IFileReader
     {
         public string Read(string path)
