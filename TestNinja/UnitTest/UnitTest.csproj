@@ -69,6 +69,7 @@
   <ItemGroup>
     <Compile Include="Mocking\VideoServiceTests.cs" />
     <Compile Include="OrderServiceTests.cs" />
+    <Compile Include="ProductTests.cs" />
     <Compile Include="TestFundamentals\CustomerControllerTests.cs" />
     <Compile Include="TestFundamentals\DemeritPointsCalculatorTests.cs" />
     <Compile Include="TestFundamentals\ErrorLoggerTests.cs" />
