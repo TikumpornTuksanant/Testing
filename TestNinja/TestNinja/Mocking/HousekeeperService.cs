@@ -2,21 +2,19 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Net;
-using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace TestNinja.Mocking
 {
-    public class HousekeeperHelper
+     public class HousekeeperService
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IStatementGenerator _statementGenerator;
         private readonly IEmailSender _emailSender;
         private readonly IXtraMessageBox _messageBox;
 
-        public HousekeeperHelper(
+        public HousekeeperService(
             IUnitOfWork unitOfWork,
             IStatementGenerator statementGenerator,
             IEmailSender emailSender,
